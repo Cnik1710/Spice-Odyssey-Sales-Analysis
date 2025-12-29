@@ -1,1 +1,1 @@
-# Spice-Odyssey-Co.-Sales-Analysis
+# Spice Odyssey & Co. Sales Analysis
