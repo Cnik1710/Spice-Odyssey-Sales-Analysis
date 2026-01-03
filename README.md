@@ -132,7 +132,7 @@ Analyze and interpret Spice Odyssey Restaurant & Co. Sales data to uncover actio
 ---
 
 ## 🖥️ Dashboard Overview
-![image alt]()
+![image alt](https://github.com/Cnik1710/Spice-Odyssey-Co.-Sales-Analysis/blob/180389131830c4f6f2fed3b722dfacc92c4a7943/04.%20Spice%20Odyssey%20Restaurant%20%26%20Co.%20Sales%20Analysis%20Dashboard.png)
 
 ---
 
