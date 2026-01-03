@@ -90,11 +90,7 @@ Analyze and interpret Spice Odyssey Restaurant & Co. Sales data to uncover actio
 ---
  
 ## ❓ Problem Statement     
-Restaurants generate large volumes of transactional data across orders, menu items, cuisines, meal times, and days of operation. However, without structured analysis, it becomes difficult to clearly identify:
-  Which cuisine categories perform best
-  When customers place the most orders
-  Which menu items drive the highest revenue
-  How ordering behavior changes by time and meal type
+Restaurants generate large volumes of transactional data across orders, menu items, cuisines, meal times, and days of operation. However, without structured analysis, it becomes difficult to identify: Best cuisine categories, Peak order placement periods, Top revenue-generating menu items, Ordering behavior variation by time and meal type.
 
 This project analyzes Spice Odyssey Restaurant & Co.’s sales data to uncover actionable insights that support menu optimization, operational planning, and revenue growth.
 
