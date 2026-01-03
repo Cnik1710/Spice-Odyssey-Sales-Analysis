@@ -90,46 +90,69 @@ Analyze and interpret Spice Odyssey Restaurant & Co. Sales data to uncover actio
 ---
  
 ## ❓ Problem Statement     
+Restaurants generate large volumes of transactional data across orders, menu items, cuisines, meal times, and days of operation. However, without structured analysis, it becomes difficult to clearly identify:
+  Which cuisine categories perform best
+  When customers place the most orders
+  Which menu items drive the highest revenue
+  How ordering behavior changes by time and meal type
+
+This project analyzes Spice Odyssey Restaurant & Co.’s sales data to uncover actionable insights that support menu optimization, operational planning, and revenue growth.
 
 ### **Key Questions:**
-  * What is the overall gender representation in Kevaro’s global selection pool?
-  * Which sports offer the highest total and average salaries?
-  * Is there a significant gender pay gap across specific sports?
-  * Which countries contribute the most athletes and salary volume?
-
+  * Which cuisine category receives the highest number of orders?
+  * How do orders and sales vary across weekdays and time?
+  * Which cuisines and items drive the most revenue?
+  * What patterns define high-value customer orders?
 ---
 
-## 💡 Key Insights      
+## 💡 Key Insights
 ### **Top Findings:** 
-  * **Balanced Gender Participation:** 25 Male & 25 Female athletes selected globally.
-  * **High-Salary Sports:** Cycling Road, Volleyball, Alpine Skiing, and Triathlon show top salary aggregates.
-  * **Pay Disparity Exists:** Males dominate higher-paying sports like Biathlon, Cycling Road, and Triathlon.
-  * **Female Salary Dominance:** Notable in Volleyball, Equestrian, and Shooting, indicating strong female representation.
-  * **Country Representation:** France, Australia, and USA lead in total candidates and salary share.
+  * Asian cuisine is the most ordered category.
+  * Dinner time contributes the highest share of orders (~60%).
+  * Lunch and dinner hours (12 PM & 5–7 PM) generate peak revenue.
+  * Premium items like Tofu Pad Thai and Steak Torta drive higher sales.
+
 ### **Supporting Metrics:**
-  * **Highest Male Salary Sport:** Cycling Road – $9.6M
-  * **Highest Female Salary Sport:** Volleyball – $8.6M
-  * **Countries with maximum athletes:** France (9), Australia (8), USA (7)
+  * Asian category: ~2.6K orders
+  * Dinner orders: ~60.6% of total
+  * Peak weekday demand: Monday & Friday
+  * Highest-selling item: Tofu Pad Thai (~8.1K sales)
 ---
  
 ## 📍 Conclusion
 ### **Summary:** 
-  * Kevaro Athletics demonstrates an encouraging gender balance in athlete participation but shows uneven salary distribution across disciplines.
-  * While certain sports reflect female leadership in earnings, others maintain a significant male bias.
-  * The data highlights the need for targeted parity initiatives, performance-linked pay reviews, and inclusive sponsorship strategies.
+ * The analysis reveals that customer demand at Spice Odyssey Restaurant & Co. is highly influenced by cuisine type, meal timing, and ordering patterns across the week. Certain cuisines consistently outperform others in both order volume and revenue contribution, indicating clear customer preferences.
 
+ * Asian and Mexican cuisines emerge as the strongest growth drivers, leading in total orders and maintaining competitive average prices. These categories present significant opportunities for menu expansion, promotional focus, and inventory prioritization.
+
+ * High-value orders are primarily concentrated during peak meal hours—especially lunch and dinner periods—and are associated with premium or popular menu items. This highlights the importance of aligning pricing strategies, staffing, and promotional efforts with high-traffic time windows.
+
+ * The interactive Power BI dashboard provides a centralized, real-time view of restaurant performance, enabling management to:
+   * Monitor sales and order trends dynamically.
+   * Identify high-performing cuisines and items.
+   * Optimize menu strategy and operational planning.
+   * Make faster, data-driven business decisions.
+
+Overall, this project demonstrates how structured sales analytics can directly support revenue growth, customer satisfaction, and operational efficiency in a restaurant business.
 ---
  
 ## 🖥️ Dashboard Overview
-![image alt](https://github.com/Cnik1710/Kevaro-Athletics-Co.-Membership-Systemization-Analysis/blob/aa2996caef41d9fc465f8d0cd5d171d6d83ccc6a/Kevaro%20Athletics%20%26%20Co.%20Membership%20Systemization%20Analytics%20Dashboard.png)
-
+![image alt]()
 ---
 
 ## ✅ Business Impact & Use Cases   
-  * Supports gender equity reporting and compliance with global sports standards.
-  * Enables salary budgeting and sponsorship alignment per sport and gender.
-  * Empowers HR and management to identify underrepresented sports for development.
-  * Forms basis for Kevaro’s Diversity & Inclusion dashboard in future athlete selection cycles.
+  * By identifying top-performing cuisines and high-value menu items, the dashboard supports revenue optimization through informed pricing, bundling, and promotional strategies. Category-level demand insights highlight strong growth opportunities in Asian and Mexican cuisines, guiding menu expansion and product development decisions.
+
+  * Operational efficiency is enhanced through analysis of peak ordering hours and meal-type trends, enabling improved staff scheduling, inventory planning, and kitchen workload management. Marketing teams can leverage weekday and time-based demand patterns to design targeted campaigns such as lunch offers, dinner combos, and weekday-specific promotions.
+
+  * The centralized Power BI dashboard replaces manual reporting, allowing leadership to track daily, weekly, and monthly performance in real time. This ensures faster insights, consistent reporting, and better strategic planning across the organization.
+
+  * Primary Use Cases
+    * Restaurant Management: Monitor performance trends and optimize operations to improve profitability.
+    * Menu & Product Teams: Identify high-demand and underperforming items to guide menu strategy.
+    * Marketing Teams: Launch targeted, time-based promotional campaigns.
+    * Operations & Supply Chain: Align staffing and ingredient procurement with demand patterns.
+    * Leadership & Stakeholders: Drive strategic decisions using reliable KPIs and visual insights.
 ---
  
  ## 🙏 Acknowledgements & Contact 
