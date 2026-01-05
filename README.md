@@ -68,7 +68,7 @@ Analyze and interpret Spice Odyssey Restaurant & Co. Sales data to uncover actio
 ---
         
 ## 📈 Methodology & Analysis  
-### **Prepare, Process & Analytical Approach:** 
+### **Preparation, Process & Analytical Approach:** 
   * **Data Preparation & Cleaning:**
     * Imported raw restaurant sales data & verified column consistency (Order Date, Order Time, Category, Item Name, Price).
     * Performed data quality checks: Missing values, Duplicate Order_Details_ID, Invalid or inconsistent price entries.
