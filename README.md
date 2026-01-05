@@ -1,7 +1,7 @@
 # Spice Odyssey - Sales Analysis
  ---
 ## 🎯 Objective
-Analyze and interpret Spice Odyssey Restaurant & Co. Sales data to uncover actionable insights that drive customer engagement, menu & product optimization, targeted marketing, inventory & operational planning.
+Analyze and interpret Spice Odyssey - Sales data to uncover actionable insights that drive customer engagement, menu & product optimization, targeted marketing, inventory & operational planning.
 ### **Project Purpose:**
   * To analyze restaurant sales data and uncover ordering patterns, customer preferences, and revenue drivers.
   * To support data-driven decisions for menu optimization, pricing strategy, and operational planning.
@@ -18,7 +18,7 @@ Analyze and interpret Spice Odyssey Restaurant & Co. Sales data to uncover actio
 
 ## 📘 Project Overview 
 ### **Context Highlights:**
-  * This project analyzes sales data for Spice Odyssey Restaurant & Co., a multi-cuisine restaurant brand, to provide a holistic view of business performance and customer behavior.
+  * This project analyzes sales data for Spice Odyssey, a multi-cuisine restaurant brand, to provide a holistic view of business performance and customer behavior.
   * The analysis helps Spice Odyssey’s marketing and product teams understand:
     * The restaurant operates across multiple cuisine categories — Asian, Mexican, Italian, and American.
     * Sales performance varies by weekday, meal type, and time of day.
@@ -110,7 +110,7 @@ Restaurants generate large volumes of transactional data across orders, menu ite
  
 ## 📍 Conclusion
 ### **Summary:** 
- * The analysis reveals that customer demand at Spice Odyssey Restaurant & Co. is highly influenced by cuisine type, meal timing, and ordering patterns across the week. Certain cuisines consistently outperform others in both order volume and revenue contribution, indicating clear customer preferences.
+ * The analysis reveals that customer demand at Spice Odyssey is highly influenced by cuisine type, meal timing, and ordering patterns across the week. Certain cuisines consistently outperform others in both order volume and revenue contribution, indicating clear customer preferences.
 
  * Asian and Mexican cuisines emerge as the strongest growth drivers, leading in total orders and maintaining competitive average prices. These categories present significant opportunities for menu expansion, promotional focus, and inventory prioritization.
 
